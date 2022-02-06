@@ -1,7 +1,7 @@
 # Natural-Language-Processing-with-NLTK
 Introduction to NLP using NLTK.
 
-# ♞ 1- NLTK and Python basics.
+# ♞ 1- NLTK and Python basics
 - importing NLTK and some Libs
 - Python basics, lists, loops, methods, conditionals.
 - Frequency Distributions.
@@ -12,3 +12,9 @@ Introduction to NLP using NLTK.
 - NLTK search methods.
 - Stemming.
 - Lemmatization.
+
+# ♞ 3- Processing raw text
+- Beautiful soup and URL opener.
+- Types of Tokenization
+- Usage of Regular Expression with findall().
+- Unicode 
