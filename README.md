@@ -1,5 +1,6 @@
 # Natural-Language-Processing-with-NLTK
-![NLP_photo](C:\Users\basel\Desktop\ReverbAI\Tools for channel)
+![NLP_photo]("C:\Users\basel\Desktop\ReverbAI\Tools for channel\NAtural LAnguage processing.png")
+
 Introduction to NLP using NLTK.
 
 # ♞ 1- NLTK and Python basics
