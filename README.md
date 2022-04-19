@@ -1,5 +1,5 @@
 # Natural-Language-Processing-with-NLTK
-![NLP_photo]("C:\Users\basel\Desktop\ReverbAI\Tools for channel\NAtural LAnguage processing.png")
+![NLP_photo]("NAtural LAnguage processing.png")
 
 Introduction to NLP using NLTK.
 
