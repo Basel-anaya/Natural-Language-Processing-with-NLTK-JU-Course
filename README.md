@@ -1,6 +1,6 @@
 # Natural-Language-Processing-with-NLTK
 
-![NLP_photo]("https://github.com/Basel-anaya/Natural-Language-Processing-with-NLTK/blob/main/Assets/NAtural%20LAnguage%20processing.png")
+![NLP_photo]("Assets/NAtural LAnguage processing.png")
 
 Introduction to NLP using NLTK.
 
